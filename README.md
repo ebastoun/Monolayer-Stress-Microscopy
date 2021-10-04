@@ -20,9 +20,3 @@ Folder "Plane Stress" contains all the functions and scripts
 - folder "outputs" contains all the outputs from the code. Some videos are also 
   generated in the folder "Plane Stress"
 __________________________________________________
-
-ADDITIONALLY (BASTOUNIS LABORATORY)
-To compute MSM, the code needs the inputs from Traction Force Microscopy (TFM).
-You will find an additional script called "TFM_calculation.m" to compute those. 
-All the functions you need to run TFM_calculation.m are in another folder called
-TFM_calculation.
